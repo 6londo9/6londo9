@@ -1,7 +1,7 @@
 ![alt text](https://github.com/6londo9/6londo9/blob/main/header.png?raw=true) 
 ### Java enjoyer from Yuzhno-Sakhalinsk</h4>
 ___
-#### - 🧠 I'm currently learning Java on [Hexlet](hexlet.io).
+#### - 🧠 I'm currently learning Java in [Hexlet](hexlet.io).
 #### - 👷‍♂️ Working as electrotechnical / civil engineer.
 #### - 📝 You can check out my [CV](https://cv.hexlet.io/resumes/1466).
 #### - 📫 How to reach me: [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6londo9@gmail.com) [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/blondog)
