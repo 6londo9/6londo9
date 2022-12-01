@@ -3,7 +3,7 @@
 ___
 #### - 👨‍🎓 My education: Bachelor's degree 08.03.01 Industrial and Civil construction.
 #### - 🧠 I'm currently learning Java in [Hexlet](hexlet.io).
-#### - 👷‍♂️ Working as electrotechnical / civil engineer.
+#### - 👷‍♂️ Working as electrical / civil engineer.
 #### - 📝 You can check out my [CV](https://cv.hexlet.io/resumes/1466).
 #### - 📫 How to reach me: [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6londo9@gmail.com) [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/blondog)
 ___
