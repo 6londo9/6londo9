@@ -2,8 +2,8 @@
 ### Java enjoyer from Yuzhno-Sakhalinsk</h4>
 ___
 #### - 👨‍🎓 My education: Bachelor's degree 08.03.01 Industrial and Civil construction.
-#### - 🧠 I started my Java dev way from [Hexlet](hexlet.io).
-#### - 👷‍♂️ Working as Java dev in Sber.
+#### - 🧠 I started my Java dev journey from [Hexlet](hexlet.io).
+#### - 👷‍♂️ Working as middle Java dev in Sber.
 #### - 📫 How to reach me: [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6londo9@gmail.com) [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/blondog)
 ___
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=6londo9&theme=tokyonight)
